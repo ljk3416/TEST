@@ -2,7 +2,7 @@
 <body>
 
 <p>This is a paragraph.</p>
-<p>This is another paragraphhhh.</p>
+<p>This is another paragraph.</p>
 
 </body>
 </html>
